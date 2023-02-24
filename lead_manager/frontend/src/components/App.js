@@ -1,12 +1,12 @@
 import React, {Component} from "react";
 import { ReactDOM } from "react";
 
-import header from "./layout/header";
+import Header from "./layout/Header";
 
 class App extends Component {
     render() {
         return 
-        <header />
+        <Header />
     }
 }
 
